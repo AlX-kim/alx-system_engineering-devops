@@ -1,0 +1,1 @@
+ still learning bash permissions
